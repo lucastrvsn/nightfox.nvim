@@ -1,0 +1,21 @@
+! Nightfox colors for Xresources
+! Style: gruvfox
+! Upstream: https://github.com/edeneast/nightfox.nvim/raw/main/extra/gruvfox/gruvfox.Xresources
+*background: #282828
+*foreground: #d4be98
+*color0:  #0e0b0d
+*color1:  #da6e56
+*color2:  #a9b964
+*color3:  #dbb461
+*color4:  #8bb2ab
+*color5:  #bc87a6
+*color6:  #8ab884
+*color7:  #dec8a2
+*color8:  #211f20
+*color9:  #db745d
+*color10: #b0bf70
+*color11: #deba6e
+*color12: #94b8b2
+*color13: #c495b1
+*color14: #93be8e
+*color15: #e1cca9

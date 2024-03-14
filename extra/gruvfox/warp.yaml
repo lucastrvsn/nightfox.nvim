@@ -1,0 +1,26 @@
+# Nightfox Warp Colors
+# Style: gruvfox
+# Upstream: https://github.com/edeneast/nightfox.nvim/raw/main/extra/gruvfox/warp.yaml
+accent:     '#d4be98'
+background: '#282828'
+foreground: '#d4be98'
+details:    'darker'
+terminal_colors:
+  normal:
+    black:   '#0e0b0d'
+    red:     '#da6e56'
+    green:   '#a9b964'
+    yellow:  '#dbb461'
+    blue:    '#8bb2ab'
+    magenta: '#bc87a6'
+    cyan:    '#8ab884'
+    white:   '#dec8a2'
+  bright:
+    black:   '#211f20'
+    red:     '#db745d'
+    green:   '#b0bf70'
+    yellow:  '#deba6e'
+    blue:    '#94b8b2'
+    magenta: '#c495b1'
+    cyan:    '#93be8e'
+    white:   '#e1cca9'

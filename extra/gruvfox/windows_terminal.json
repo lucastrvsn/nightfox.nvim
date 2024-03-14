@@ -1,0 +1,23 @@
+{
+    "name" : "gruvfox",
+    "background" : "#282828",
+    "foreground" : "#d4be98",
+    "cursorColor": "#d4be98",
+    "selectionBackground": "#4c4c4c",
+    "black" : "#0e0b0d",
+    "blue" : "#8bb2ab",
+    "cyan" : "#8ab884",
+    "green" : "#a9b964",
+    "purple" : "#bc87a6",
+    "red" : "#da6e56",
+    "white" : "#dec8a2",
+    "yellow" : "#dbb461",
+    "brightBlack" : "#211f20",
+    "brightBlue" : "#94b8b2",
+    "brightCyan" : "#93be8e",
+    "brightGreen" : "#b0bf70",
+    "brightPurple" : "#c495b1",
+    "brightRed" : "#db745d",
+    "brightWhite" : "#e1cca9",
+    "brightYellow" : "#deba6e"
+}

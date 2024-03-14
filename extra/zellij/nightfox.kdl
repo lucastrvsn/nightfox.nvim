@@ -54,6 +54,19 @@ themes {
     black "#373354"
     white "#cdcbe0"
   }
+  gruvfox {
+    bg "#282828"
+    fg "#d4be98"
+    red "#da6e56"
+    green "#a9b964"
+    blue "#8bb2ab"
+    yellow "#dbb461"
+    magenta "#bc87a6"
+    orange "#e3934f"
+    cyan "#8ab884"
+    black "#3c3c3c"
+    white "#ab997b"
+  }
   nightfox {
     bg "#192330"
     fg "#cdcecf"

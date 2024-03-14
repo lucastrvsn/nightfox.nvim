@@ -1,0 +1,32 @@
+# Nightfox colors for Ghostty
+## name: gruvfox
+## upstream: https://github.com/edeneast/nightfox.nvim/raw/main/extra/gruvfox/gruvfox.ghostty
+
+background = #282828
+foreground = #d4be98
+selection-background = #4c4c4c
+selection-foreground = #d4be98
+cursor-color = #d4be98
+
+# normal
+palette = 0=#0e0b0d
+palette = 1=#da6e56
+palette = 2=#a9b964
+palette = 3=#dbb461
+palette = 4=#8bb2ab
+palette = 5=#bc87a6
+palette = 6=#8ab884
+palette = 7=#dec8a2
+
+# bright
+palette = 8=#211f20
+palette = 9=#db745d
+palette = 10=#b0bf70
+palette = 11=#deba6e
+palette = 12=#94b8b2
+palette = 13=#c495b1
+palette = 14=#93be8e
+palette = 15=#e1cca9
+
+# extended colors
+palette = 16=#e3934f
